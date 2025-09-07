@@ -1,0 +1,1 @@
+Hi, this ia about a topology network simulator project using python.Here I have used python that is helpful to generate a network for our systems in lab,office,home etc. This connections will have inputs to be given by the user to design a network and gives an optimized graph for the respective network.
